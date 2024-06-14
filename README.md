@@ -9,12 +9,8 @@ Bir web kamerası kullanarak sistem, yüz ifadelerini ve el hareketlerini algıl
 - **El İzleme:** El hareketlerini izler ve parmak uçlarını tespit eder.
 - **Fare Kontrolü:** Algılanan duygulara göre fare kontrolünü etkinleştirir.
 
-## Kurulum
-
-1. Depoyu klonlayın:
-   ```bash
-   git clone https://github.com/WeAreTheArtMakers/Memotix.git
-   cd Memotix
+## Download Face Landmarks 
+- **http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2
 
 ## Gereksinimler
 
