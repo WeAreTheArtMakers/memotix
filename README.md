@@ -10,7 +10,7 @@ Bir web kamerası kullanarak sistem, yüz ifadelerini ve el hareketlerini algıl
 - **Fare Kontrolü:** Algılanan duygulara göre fare kontrolünü etkinleştirir.
 
 ## Download Face Landmarks 
-- **http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2
+- http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2
 
 ## Gereksinimler
 
